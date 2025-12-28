@@ -149,7 +149,7 @@
     "rich_text_4HAmzg": {
       "type": "rich-text",
       "blocks": {
-        "heading_TYTEMF": {
+        "heading_aJWDFV": {
           "type": "heading",
           "settings": {
             "text": "Before & After Results",
@@ -160,7 +160,7 @@
         }
       },
       "block_order": [
-        "heading_TYTEMF"
+        "heading_aJWDFV"
       ],
       "name": "Rich text",
       "settings": {
@@ -171,6 +171,31 @@
         "background_gradient": "",
         "text_color": ""
       }
+    },
+    "before_after_image_PrdLgz": {
+      "type": "before-after-image",
+      "name": "Before/after image",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "before_image": "shopify://shop_images/0a7934ad-56eb-4c85-bcaf-128b4bbfcbfe.webp",
+        "after_image": "shopify://shop_images/4e95e876-e167-40c7-93f1-942ade29db1b.webp",
+        "expand_image": false,
+        "text_position": "start",
+        "before_after_text_position": "top",
+        "before_text": "Before",
+        "after_text": "After",
+        "drag_initial_position": 50,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "before_text_color": "#ffffff",
+        "after_text_color": "#ffffff",
+        "drag_cursor_background": "#ffffff",
+        "drag_cursor_color": "#000000"
+      }
     }
   },
   "order": [
@@ -178,6 +203,7 @@
     "logo_list_xPKiBq",
     "rich_text_EpTY88",
     "image_with_text_overlay_nbBEBz",
-    "rich_text_4HAmzg"
+    "rich_text_4HAmzg",
+    "before_after_image_PrdLgz"
   ]
 }
