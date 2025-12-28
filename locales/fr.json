@@ -439,5 +439,10 @@
         "other": "Il a reçu {{ count }} avis."
       }
     }
+  },
+  "shopify": {
+    "links": {
+      "powered_by_shopify": "So     "
+    }
   }
 }
