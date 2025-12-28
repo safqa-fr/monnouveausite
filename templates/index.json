@@ -24,11 +24,23 @@
           "settings": {
             "content": "<h4>A natural daily ritual for a lighter, more relaxed body</h4>"
           }
+        },
+        "button_apBxmz": {
+          "type": "button",
+          "settings": {
+            "style": "fill",
+            "size": "lg",
+            "text": "Button text",
+            "url": "",
+            "background": "",
+            "text_color": ""
+          }
         }
       },
       "block_order": [
         "heading_kAJmTa",
-        "richtext_XY6iPf"
+        "richtext_XY6iPf",
+        "button_apBxmz"
       ],
       "name": "Image with text overlay",
       "settings": {
@@ -138,7 +150,6 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/b6892e85-87e9-45df-9c03-3d22a92ad7e6.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -146,40 +157,14 @@
         "overlay_opacity": 0
       }
     },
-    "rich_text_4HAmzg": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_aJWDFV": {
-          "type": "heading",
-          "settings": {
-            "text": "Before & After Results",
-            "heading_tag": "h2",
-            "text_color": "",
-            "gradient": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_aJWDFV"
-      ],
-      "name": "Rich text",
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "before_after_image_PrdLgz": {
+    "before_after_image_Uwc9Ta": {
       "type": "before-after-image",
       "name": "Before/after image",
       "settings": {
         "full_width": true,
         "subheading": "",
-        "title": "",
-        "content": "",
+        "title": "Before & After Results",
+        "content": "<p><strong>Expert-Approved</strong><br/><em>We don’t make promises. We show real results.</em></p>",
         "before_image": "shopify://shop_images/0a7934ad-56eb-4c85-bcaf-128b4bbfcbfe.webp",
         "after_image": "shopify://shop_images/4e95e876-e167-40c7-93f1-942ade29db1b.webp",
         "expand_image": false,
@@ -203,7 +188,6 @@
     "logo_list_xPKiBq",
     "rich_text_EpTY88",
     "image_with_text_overlay_nbBEBz",
-    "rich_text_4HAmzg",
-    "before_after_image_PrdLgz"
+    "before_after_image_Uwc9Ta"
   ]
 }
