@@ -623,10 +623,10 @@
       "name": "Contact form",
       "settings": {
         "full_width": true,
-        "subheading": "Our customer support team is available 7 days a week. Average response time: 24 hours.",
+        "subheading": "",
         "title": "Do you have any question?",
-        "content": "",
-        "text_position": "start",
+        "content": "<p>Our customer support team is available 7 days a week. Average response time: 24 hours.</p>",
+        "text_position": "center",
         "contact_form_size": "large",
         "background": "",
         "background_gradient": "",
