@@ -314,52 +314,52 @@
   },
   "cart": {
     "general": {
-      "title": "Panier",
-      "empty": "Votre panier est vide",
+      "title": "Cart",
+      "empty": "Your cart is empty",
       "item_count": {
-        "one": "{{ count }} article",
-        "other": "{{ count }} articles"
+        "one": "{{ count }} item",
+        "other": "{{ count }} items"
       },
-      "continue_shopping": "Explorer nos produits",
-      "weight": "Poids",
-      "subtotal": "Sous-total",
+      "continue_shopping": "Explore our products",
+      "weight": "Weight",
+      "subtotal": "Subtotal",
       "total": "Total",
-      "taxes_and_shipping_policy_at_checkout_html": "Taxes et <a href=\"{{ link }}\" class=\"link\">frais d'expédition</a> calculés lors du paiement",
-      "taxes_included_but_shipping_at_checkout": "Taxes incluses et frais d'expédition calculés lors du paiement",
-      "taxes_included_and_shipping_policy_html": "Taxes incluses. <a href=\"{{ link }}\" class=\"link\">Frais d'expédition</a> calculés à l'étape de paiement.",
-      "taxes_and_shipping_at_checkout": "Taxes et frais d'expédition calculés lors du paiement",
-      "add_order_note": "Ajouter une note",
-      "edit_order_note": "Modifier la note",
-      "order_note": "Note de commande",
-      "save_note": "Enregistrer",
-      "view_cart": "Panier",
-      "checkout": "Passer la commande",
-      "we_accept": "Nous acceptons"
+      "taxes_and_shipping_policy_at_checkout_html": "Taxes and <a href=\"{{ link }}\" class=\"link\">shipping</a> calculated at checkout",
+      "taxes_included_but_shipping_at_checkout": "Taxes included. Shipping calculated at checkout.",
+      "taxes_included_and_shipping_policy_html": "Taxes included. <a href=\"{{ link }}\" class=\"link\">Shipping</a> calculated at checkout.",
+      "taxes_and_shipping_at_checkout": "Taxes and shipping calculated at checkout.",
+      "add_order_note": "Add a note",
+      "edit_order_note": "Edit note",
+      "order_note": "Order note",
+      "save_note": "Save",
+      "view_cart": "View cart",
+      "checkout": "Checkout",
+      "we_accept": "We accept"
     },
     "order": {
-      "product": "Produit",
+      "product": "Product",
       "total": "Total",
-      "quantity": "Quantité",
-      "change_quantity": "Changer la quantité",
-      "increase_quantity": "Augmenter la quantité",
-      "decrease_quantity": "Diminuer la quantité",
-      "remove": "Supprimer",
-      "remove_with_title": "Supprimer {{ title }}"
+      "quantity": "Quantity",
+      "change_quantity": "Change quantity",
+      "increase_quantity": "Increase quantity",
+      "decrease_quantity": "Decrease quantity",
+      "remove": "Remove",
+      "remove_with_title": "Remove {{ title }}"
     },
     "free_shipping_bar": {
-      "limit_unreached_html": "Dépensez {{ remaining_amount }} de plus pour bénéficier des frais de livraison offerts.",
-      "limit_reached_html": "Frais de livraison offerts !"
+      "limit_unreached_html": "Spend {{ remaining_amount }} more to get free shipping.",
+      "limit_reached_html": "Free shipping unlocked!"
     },
     "shipping_estimator": {
-      "estimate_shipping": "Estimer les frais de livraison",
-      "country": "Pays",
-      "province": "Région",
-      "zip": "Code postal",
-      "estimate": "Estimer",
-      "no_results": "Nous ne livrons pas à votre adresse.",
-      "one_result": "Il y a un résultat pour votre adresse :",
-      "multiple_results": "Il y a plusieurs résultats pour votre adresse :",
-      "error": "Impossible d'estimer les frais de livraison :"
+      "estimate_shipping": "Estimate shipping",
+      "country": "Country",
+      "province": "State / Province",
+      "zip": "ZIP / Postal code",
+      "estimate": "Calculate",
+      "no_results": "We don’t ship to your address.",
+      "one_result": "There is 1 shipping option for your address:",
+      "multiple_results": "here are multiple shipping options for your address:",
+      "error": "Unable to calculate shipping rates."
     }
   },
   "404": {
