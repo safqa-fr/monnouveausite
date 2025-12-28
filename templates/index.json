@@ -15,7 +15,7 @@
         "heading_kAJmTa": {
           "type": "heading",
           "settings": {
-            "text": "Le confort de lire, sans déranger",
+            "text": "Allégez votre corps dès aujourd’hui",
             "heading_tag": "h1"
           }
         }
@@ -29,17 +29,121 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/ChatGPT_Image_28_dec._2025_00_34_28.png",
-        "mobile_image": "shopify://shop_images/ChatGPT_Image_28_dec._2025_00_31_34.png",
+        "image": "shopify://shop_images/d53696e1-cfc6-4955-af3e-3c11d2df3946.png",
+        "mobile_image": "shopify://shop_images/Soin_du_visage_avec_gua_sha.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
-        "overlay_opacity": 25
+        "overlay_opacity": 10
+      }
+    },
+    "logo_list_xPKiBq": {
+      "type": "logo-list",
+      "blocks": {
+        "logo_7A8efk": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/vogue_0d2782bd-1d73-47bd-89bd-334df51924d2.svg",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_f6EjY6": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Cosmopolitan-Logo.png",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_CQqKR3": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/elle_8f537aab-c668-429a-bc19-e409721dc3a0.svg",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_aJfakx": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Design_sans_titre_23.avif",
+            "logo_width": 120,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo_7A8efk",
+        "logo_f6EjY6",
+        "logo_CQqKR3",
+        "logo_aJfakx"
+      ],
+      "name": "Logo list",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "title": "As Seen On",
+        "content": "",
+        "text_alignment": "center",
+        "items_per_row": 5,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "",
+        "logo_item_border": ""
+      }
+    },
+    "rich_text_TNki9Y": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_kzVRR3": {
+          "type": "heading",
+          "settings": {
+            "text": "Why Choose Skineo ?",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_kzVRR3"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "image_with_text_overlay_nbBEBz": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/ChatGPT_Image_28_dec._2025_14_03_34.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
       }
     }
   },
   "order": [
-    "image_with_text_overlay_ctfJ7C"
+    "image_with_text_overlay_ctfJ7C",
+    "logo_list_xPKiBq",
+    "rich_text_TNki9Y",
+    "image_with_text_overlay_nbBEBz"
   ]
 }

@@ -14,16 +14,40 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
-        "message": {
+        "message_i7UL7J": {
           "type": "message",
           "settings": {
-            "text": "Announce something here",
+            "text": "End-of-Year Limited Offer – 50% OFF",
+            "url": ""
+          }
+        },
+        "message_H6Y3Pt": {
+          "type": "message",
+          "settings": {
+            "text": "100% Secure Payment",
+            "url": ""
+          }
+        },
+        "message_krnqtr": {
+          "type": "message",
+          "settings": {
+            "text": "30-Day Money-Back Guarantee",
+            "url": ""
+          }
+        },
+        "message_qgLgdx": {
+          "type": "message",
+          "settings": {
+            "text": "Free Shipping",
             "url": ""
           }
         }
       },
       "block_order": [
-        "message"
+        "message_i7UL7J",
+        "message_H6Y3Pt",
+        "message_krnqtr",
+        "message_qgLgdx"
       ],
       "settings": {
         "enable_sticky": false,
@@ -32,7 +56,7 @@
         "text_size": "text-xs",
         "navigation_mode": "scrolling",
         "scrolling_speed": 10,
-        "background": "#1a1a1a",
+        "background": "#6e4a2f",
         "background_gradient": "",
         "text_color": "#ffffff"
       }
