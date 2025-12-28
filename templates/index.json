@@ -112,7 +112,7 @@
         "text_color": "",
         "heading_color": "",
         "heading_gradient": "",
-        "logo_item_background": "#f3e8dc",
+        "logo_item_background": "#ffffff",
         "logo_item_border": "#ffffff"
       }
     },
@@ -548,6 +548,96 @@
         "heading_color": "",
         "heading_gradient": ""
       }
+    },
+    "faq_nTcrqG": {
+      "type": "faq",
+      "blocks": {
+        "item_UFjGgc": {
+          "type": "item",
+          "settings": {
+            "title": "How do I clean the brush?",
+            "content": "<p>Clean it just like a makeup brush or a face mask brush. The brush is used on <strong>clean, dry skin</strong>, without oils or creams, making maintenance quick and effortless.</p><p><strong>Quick cleaning (daily):</strong><br/>Spray a small amount of <strong>70% isopropyl alcohol</strong> onto the bristles and gently wipe with a clean tissue.<br/>Alternatively, wipe the bristles with a cloth lightly dampened with alcohol.<br/>Let it <strong>air dry naturally</strong>.</p><p><strong>Deep cleaning (weekly):</strong><br/>Wash the bristles with <strong>lukewarm water</strong> and a <strong>gentle antibacterial soap</strong>.<br/>Rinse thoroughly, gently shake off excess water, and lay flat to <strong>dry completely</strong>.</p>"
+          }
+        },
+        "item_PJpMtc": {
+          "type": "item",
+          "settings": {
+            "title": "What are the bristles made of?",
+            "content": "<p>The bristles are made from <strong>ultra-soft synthetic fibers</strong>, dermatologically tested.</p><p>They are designed to be <strong>safe, gentle, and comfortable</strong> for all skin types, including <strong>sensitive and mature skin</strong>.</p>"
+          }
+        },
+        "item_K8zcPk": {
+          "type": "item",
+          "settings": {
+            "title": "When will I see results?",
+            "content": "<p>Most people notice a <strong>reduction in puffiness almost instantly</strong>.</p><p>With regular use, facial contours appear <strong>more defined</strong>, and the skin looks <strong>brighter and more refreshed</strong> over time.</p>"
+          }
+        },
+        "item_amzApm": {
+          "type": "item",
+          "settings": {
+            "title": "How often should I use it?",
+            "content": "<p>We recommend <strong>daily use</strong>, especially <strong>in the morning</strong>.</p><p>This helps reduce puffiness and <strong>stimulates circulation</strong> for a fresher, more energized look.</p>"
+          }
+        },
+        "item_VyTHti": {
+          "type": "item",
+          "settings": {
+            "title": "Can I use it with oils or serums?",
+            "content": "<p>Yes!</p><p>It works perfectly on <strong>dry skin</strong>, but you can also use it with your favorite <strong>oil or serum</strong> for extra glide and comfort.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_UFjGgc",
+        "item_PJpMtc",
+        "item_K8zcPk",
+        "item_amzApm",
+        "item_VyTHti"
+      ],
+      "name": "FAQ",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "FAQ",
+        "content": "",
+        "team_avatar_width": 160,
+        "support_hours": "",
+        "answer_time": "",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "rgba(0,0,0,0)",
+        "accordion_text_color": ""
+      }
+    },
+    "contact_AVdaDC": {
+      "type": "contact",
+      "name": "Contact form",
+      "settings": {
+        "full_width": true,
+        "subheading": "Contact Us",
+        "title": "Do you have any question?",
+        "content": "",
+        "text_position": "start",
+        "contact_form_size": "large",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "contact_background": "",
+        "contact_text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
     }
   },
   "order": [
@@ -559,6 +649,8 @@
     "multi_column_bLbGFt",
     "multi_column_gfT6Db",
     "featured_product_AWrxYa",
-    "tabs_GdnMbM"
+    "tabs_GdnMbM",
+    "faq_nTcrqG",
+    "contact_AVdaDC"
   ]
 }
