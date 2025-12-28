@@ -30,8 +30,8 @@
           "settings": {
             "style": "fill",
             "size": "lg",
-            "text": "Button text",
-            "url": "",
+            "text": "Discover the Ritual",
+            "url": "shopify://products/luxibook-pro",
             "background": "",
             "text_color": ""
           }
@@ -149,7 +149,8 @@
         "full_width": true,
         "allow_transparent_header": false,
         "enable_parallax": false,
-        "image_size": "auto",
+        "image_size": "fill",
+        "image": "shopify://shop_images/ChatGPT_Image_28_dec._2025_14_03_34.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
