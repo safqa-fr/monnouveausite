@@ -100,8 +100,8 @@
         "text_color": "",
         "heading_color": "",
         "heading_gradient": "",
-        "logo_item_background": "",
-        "logo_item_border": ""
+        "logo_item_background": "#ffffff",
+        "logo_item_border": "#ffffff"
       }
     },
     "rich_text_EpTY88": {
@@ -138,7 +138,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/ChatGPT_Image_28_dec._2025_14_03_34.png",
+        "image": "shopify://shop_images/b6892e85-87e9-45df-9c03-3d22a92ad7e6.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
