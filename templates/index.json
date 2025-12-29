@@ -48,8 +48,8 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/d53696e1-cfc6-4955-af3e-3c11d2df3946.png",
-        "mobile_image": "shopify://shop_images/Soin_du_visage_avec_gua_sha.png",
+        "image": "shopify://shop_images/DUOEA-couple.webp",
+        "mobile_image": "shopify://shop_images/DUOEA-couple.webp",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -63,7 +63,6 @@
         "logo_7A8efk": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/vogue_0d2782bd-1d73-47bd-89bd-334df51924d2.svg",
             "logo_width": 120,
             "link": ""
           }
@@ -71,7 +70,6 @@
         "logo_f6EjY6": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Cosmopolitan-Logo.png",
             "logo_width": 120,
             "link": ""
           }
@@ -79,7 +77,6 @@
         "logo_CQqKR3": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/elle_8f537aab-c668-429a-bc19-e409721dc3a0.svg",
             "logo_width": 120,
             "link": ""
           }
@@ -87,7 +84,6 @@
         "logo_aJfakx": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Design_sans_titre_23.avif",
             "logo_width": 120,
             "link": ""
           }
@@ -148,7 +144,6 @@
         "image_kyeaqb": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/5_e9e9b296-b0c1-4664-9286-2b98f47bcddd.webp",
             "title": "",
             "heading_tag": "h4",
             "link_url": "",
@@ -211,8 +206,6 @@
         "subheading": "",
         "title": "Before & After Results",
         "content": "<h4><strong>Expert-Approved.</strong><br/>We don’t make promises. We show real results.</h4>",
-        "before_image": "shopify://shop_images/0a7934ad-56eb-4c85-bcaf-128b4bbfcbfe.webp",
-        "after_image": "shopify://shop_images/4e95e876-e167-40c7-93f1-942ade29db1b.webp",
         "expand_image": false,
         "text_position": "center",
         "before_after_text_position": "top",
@@ -443,7 +436,6 @@
         "image_DJR8Ua": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/ChatGPT_Image_28_dec._2025_21_21_49_1.png",
             "alignment": "center",
             "max_width": 330
           }
