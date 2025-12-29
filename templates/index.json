@@ -152,7 +152,7 @@
       "name": "Multi-column",
       "settings": {
         "full_width": true,
-        "stack_on_mobile": false,
+        "stack_on_mobile": true,
         "gap": "small",
         "text_alignment": "center",
         "subheading": "",
