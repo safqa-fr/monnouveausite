@@ -116,91 +116,64 @@
         "logo_item_border": "#ffffff"
       }
     },
-    "rich_text_EpTY88": {
-      "type": "rich-text",
+    "multi_column_WGxiRG": {
+      "type": "multi-column",
       "blocks": {
-        "heading_pq6PCJ": {
-          "type": "heading",
+        "item_9xgw8K": {
+          "type": "item",
           "settings": {
-            "text": "Why Choose Skineo ?",
-            "heading_tag": "h2",
-            "text_color": "",
-            "gradient": ""
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "<h4>✓ <strong>De-puffs in minutes</strong><br/>Helps reduce facial puffiness for a fresher, more rested look.</h4><h4>✓ <strong>Smooths the look of skin</strong><br/>Skin appears more even and refined after just a few gentle strokes.</h4><h4>✓ <strong>Ultra-soft on sensitive skin</strong><br/>Designed to glide comfortably without pulling, pain, or irritation.</h4>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_TnFiCP": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/5_e9e9b296-b0c1-4664-9286-2b98f47bcddd.webp",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h5",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_c8tyiP": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h3",
+            "content": "<h4>✓ <strong>No oils, no serums needed</strong><br/>Use it dry, anytime. No products, no mess, no extra steps.</h4><h4>✓ <strong>Quick daily ritual</strong><br/>Takes only a few minutes and fits easily into any routine.</h4><h4>✓ <strong>Reusable, no refills</strong><br/>A long-lasting tool designed for everyday use, with no ongoing costs.</h4>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
           }
         }
       },
       "block_order": [
-        "heading_pq6PCJ"
+        "item_9xgw8K",
+        "item_TnFiCP",
+        "item_c8tyiP"
       ],
-      "name": "Rich text",
+      "name": "Multi-column",
       "settings": {
         "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
+        "stack_on_mobile": false,
+        "gap": "small",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "Why Choose Skineo ?",
+        "content": "",
         "background": "",
         "background_gradient": "",
         "text_color": ""
-      }
-    },
-    "media_grid_z3FBYz": {
-      "type": "media-grid",
-      "blocks": {
-        "image_kyeaqb": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/5_e9e9b296-b0c1-4664-9286-2b98f47bcddd.webp",
-            "title": "",
-            "heading_tag": "h4",
-            "link_url": "",
-            "link_text": "",
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_column_span": 2,
-            "desktop_row_span": 2,
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "background": "#000000",
-            "background_gradient": "",
-            "text_color": "#ffffff",
-            "text_gradient": "",
-            "button_background": "#000000",
-            "button_text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "image_NDkyQh": {
-          "type": "image",
-          "settings": {
-            "title": "",
-            "heading_tag": "h4",
-            "link_url": "",
-            "link_text": "",
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_column_span": 2,
-            "desktop_row_span": 2,
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "background": "#000000",
-            "background_gradient": "",
-            "text_color": "#ffffff",
-            "text_gradient": "",
-            "button_background": "#000000",
-            "button_text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        }
-      },
-      "block_order": [
-        "image_kyeaqb",
-        "image_NDkyQh"
-      ],
-      "name": "Media grid",
-      "settings": {
-        "full_width": true,
-        "reduce_width": false,
-        "desktop_row_height": 290,
-        "mobile_row_height": 150,
-        "background": "",
-        "background_gradient": ""
       }
     },
     "before_after_image_Uwc9Ta": {
@@ -210,7 +183,7 @@
         "full_width": true,
         "subheading": "",
         "title": "Before & After Results",
-        "content": "<h5>Expert-Approved.<br/>We don’t make promises. We show real results.</h5>",
+        "content": "<h4>Expert-Approved.<br/>We don’t make promises. We show real results.</h4>",
         "before_image": "shopify://shop_images/0a7934ad-56eb-4c85-bcaf-128b4bbfcbfe.webp",
         "after_image": "shopify://shop_images/4e95e876-e167-40c7-93f1-942ade29db1b.webp",
         "expand_image": false,
@@ -237,7 +210,7 @@
             "column_size": "4",
             "title": "89%",
             "heading_tag": "h1",
-            "content": "<p><strong>Reduced Puffiness</strong><br/>Saw their bags and puffy areas decrease as soon as the first week.<br/></p>",
+            "content": "<h5><strong>Reduced Puffiness</strong><br/>Saw their bags and puffy areas decrease as soon as the first week.<br/></h5>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -249,7 +222,7 @@
             "column_size": "4",
             "title": "94%",
             "heading_tag": "h1",
-            "content": "<p><strong>Defined Contours</strong><br/>Noticed a firmer jawline and visibly sculpted face.<br/></p>",
+            "content": "<h5><strong>Defined Contours</strong><br/>Noticed a firmer jawline and visibly sculpted face.<br/></h5>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -261,7 +234,7 @@
             "column_size": "4",
             "title": "91%",
             "heading_tag": "h1",
-            "content": "<p><strong>Smoother Skin</strong><br/>Found their skin to be softer, healthier and more radiant.</p>",
+            "content": "<h5>Found their skin to be softer, healthier and more radiant.</h5>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -273,7 +246,7 @@
             "column_size": "4",
             "title": "89%",
             "heading_tag": "h1",
-            "content": "<p><strong>Refreshed Appearance</strong><br/>Reported looking fresher, more relaxed and less tired.</p>",
+            "content": "<h5>Reported looking fresher, more relaxed and less tired.</h5>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -294,7 +267,7 @@
         "text_alignment": "center",
         "subheading": "",
         "title": "Clinically Tested Results",
-        "content": "<p>Based on an independent user study with 527 participants after 30 days.</p>",
+        "content": "<h4>Based on an independent user study with 527 participants after 30 days.</h4>",
         "background": "",
         "background_gradient": "",
         "text_color": ""
@@ -655,8 +628,7 @@
   "order": [
     "image_with_text_overlay_ctfJ7C",
     "logo_list_xPKiBq",
-    "rich_text_EpTY88",
-    "media_grid_z3FBYz",
+    "multi_column_WGxiRG",
     "before_after_image_Uwc9Ta",
     "multi_column_bLbGFt",
     "multi_column_gfT6Db",
