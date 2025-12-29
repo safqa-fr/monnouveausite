@@ -603,14 +603,14 @@
         "button_text": "",
         "button_url": "",
         "text_position": "center",
-        "background": "",
+        "background": "#ffffff",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
         "heading_gradient": "",
         "button_background": "",
         "button_text_color": "",
-        "accordion_background": "rgba(0,0,0,0)",
+        "accordion_background": "#f3e8dc",
         "accordion_text_color": ""
       }
     },
@@ -629,7 +629,7 @@
         "text_color": "",
         "heading_color": "",
         "heading_gradient": "",
-        "contact_background": "",
+        "contact_background": "#f3e8dc",
         "contact_text_color": "",
         "button_background": "",
         "button_text_color": ""
