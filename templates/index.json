@@ -102,7 +102,7 @@
       "name": "Logo list",
       "settings": {
         "full_width": true,
-        "stack_mobile": true,
+        "stack_mobile": false,
         "title": "As Seen On :",
         "content": "",
         "text_alignment": "center",
