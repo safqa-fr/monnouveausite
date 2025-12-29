@@ -442,9 +442,6 @@
     }
   },
   "shopify": {
-    "links": {
-      "powered_by_shopify": "Propulsé par Shopify"
-    },
     "checkout": {
       "required_extensions": {
         "errors": {
