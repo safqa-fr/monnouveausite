@@ -306,10 +306,24 @@
         "item_kMaahG": {
           "type": "item",
           "settings": {
-            "column_size": "3",
-            "title": "Column title",
+            "video": "shopify://files/videos/87d94f6a4ab34f12bba8a8f76463c2cf.HD-1080p-7.2Mbps-58092585.mp4",
+            "column_size": "4",
+            "title": "",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_LNJyg9": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/598d96a65b084075ab66af7d65c0fdb5.HD-1080p-7.2Mbps-58092586.mp4",
+            "column_size": "4",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -318,10 +332,11 @@
         "item_W6jnMd": {
           "type": "item",
           "settings": {
-            "column_size": "3",
-            "title": "Column title",
+            "video": "shopify://files/videos/b895832a27684e2da9f19f1921a5e439.HD-1080p-7.2Mbps-58092587.mp4",
+            "column_size": "4",
+            "title": "",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -330,10 +345,11 @@
         "item_Fczg4G": {
           "type": "item",
           "settings": {
-            "column_size": "3",
-            "title": "Column title",
+            "video": "shopify://files/videos/ba30e95bcfde4b7eae907209254cc822.HD-1080p-4.8Mbps-64562430.mp4",
+            "column_size": "4",
+            "title": "",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -342,6 +358,7 @@
       },
       "block_order": [
         "item_kMaahG",
+        "item_LNJyg9",
         "item_W6jnMd",
         "item_Fczg4G"
       ],
@@ -350,10 +367,10 @@
         "full_width": true,
         "stack_on_mobile": false,
         "gap": "medium",
-        "text_alignment": "start",
-        "subheading": "About",
+        "text_alignment": "center",
+        "subheading": "",
         "title": "Featured content",
-        "content": "<p>Organize content into multiple columns to share useful information to your customers about your products, values...</p>",
+        "content": "",
         "background": "",
         "background_gradient": "",
         "text_color": ""
