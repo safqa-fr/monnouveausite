@@ -122,10 +122,10 @@
         "item_9xgw8K": {
           "type": "item",
           "settings": {
-            "column_size": "3",
+            "column_size": "4",
             "title": "",
             "heading_tag": "h4",
-            "content": "<h5>✓ <strong>De-puffs in minutes</strong><br/>Helps reduce facial puffiness for a fresher, more rested look.</h5><h5>✓ <strong>Smooths the look of skin</strong><br/>Skin appears more even and refined after just a few gentle strokes.</h5><h5>✓ <strong>Ultra-soft on sensitive skin</strong><br/>Designed to glide comfortably without pulling, pain, or irritation.</h5>",
+            "content": "<h4>✓ <strong>De-puffs in minutes</strong><br/>Helps reduce facial puffiness for a fresher, more rested look.</h4><h4>✓ <strong>Smooths the look of skin</strong><br/>Skin appears more even and refined after just a few gentle strokes.</h4><h4>✓ <strong>Quick daily ritual</strong><br/>Takes only a few minutes and fits easily into any routine.</h4>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -135,9 +135,9 @@
           "type": "item",
           "settings": {
             "image": "shopify://shop_images/5_e9e9b296-b0c1-4664-9286-2b98f47bcddd.webp",
-            "column_size": "3",
+            "column_size": "2",
             "title": "",
-            "heading_tag": "h5",
+            "heading_tag": "h1",
             "content": "",
             "link_url": "",
             "link_text": "",
@@ -147,10 +147,10 @@
         "item_c8tyiP": {
           "type": "item",
           "settings": {
-            "column_size": "3",
+            "column_size": "4",
             "title": "",
             "heading_tag": "h3",
-            "content": "<h5>✓ <strong>No oils, no serums needed</strong><br/>Use it dry, anytime. No products, no mess, no extra steps.</h5><h5></h5><h5>✓ <strong>Quick daily ritual</strong><br/>Takes only a few minutes and fits easily into any routine.</h5><h5></h5><h5>✓ <strong>Reusable, no refills</strong><br/>A long-lasting tool designed for everyday use, with no ongoing costs.</h5>",
+            "content": "<h4>✓ <strong>No oils, no serums needed</strong><br/>Use it dry, anytime. No products, no mess, no extra steps.</h4><h4>✓ <strong>Ultra-soft on sensitive skin</strong><br/>Designed to glide comfortably without pulling, pain, or irritation.</h4><h4>✓ <strong>Reusable, no refills</strong><br/>A long-lasting tool designed for everyday use, with no ongoing costs.</h4>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
