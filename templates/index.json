@@ -373,6 +373,13 @@
             "text": "<p>Year-End Special Offer - 50% OFF 🎁</p>"
           }
         },
+        "kaching_bundles_app_block_8Am9Jc": {
+          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
+          "settings": {
+            "product": "{{section.settings.product}}",
+            "manual_deal_block_id": ""
+          }
+        },
         "rating_KLDr7y": {
           "type": "rating",
           "settings": {
@@ -436,6 +443,7 @@
         "price_MB7LUy",
         "liquid_LxhKA4",
         "text_cN8k9a",
+        "kaching_bundles_app_block_8Am9Jc",
         "rating_KLDr7y",
         "separator_NPbqdF",
         "description_qNmhGz",
