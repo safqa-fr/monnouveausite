@@ -424,11 +424,12 @@
             "payment_button_text_color": ""
           }
         },
-        "image_DJR8Ua": {
+        "image_R3wAFc": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_28_dec._2025_21_21_49_1.png",
             "alignment": "center",
-            "max_width": 330
+            "max_width": 380
           }
         },
         "pickup_availability_w7YJ4N": {
@@ -450,7 +451,7 @@
         "variant_picker_AhznWc",
         "quantity_selector_geCbwR",
         "buy_buttons_FhCkcP",
-        "image_DJR8Ua",
+        "image_R3wAFc",
         "pickup_availability_w7YJ4N"
       ],
       "name": "Featured product",
