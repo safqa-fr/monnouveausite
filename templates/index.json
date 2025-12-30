@@ -599,6 +599,27 @@
         "accordion_text_color": ""
       }
     },
+    "contact_AVdaDC": {
+      "type": "contact",
+      "name": "Contact form",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "Do you have any question?",
+        "content": "<p>Our customer support team is available 7 days a week. Average response time: 24 hours.</p>",
+        "text_position": "center",
+        "contact_form_size": "large",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "contact_background": "#f3e8dc",
+        "contact_text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
     "1767125039fc7fb841": {
       "type": "apps",
       "blocks": {
@@ -626,27 +647,6 @@
         "background_gradient": "",
         "text_color": ""
       }
-    },
-    "contact_AVdaDC": {
-      "type": "contact",
-      "name": "Contact form",
-      "settings": {
-        "full_width": true,
-        "subheading": "",
-        "title": "Do you have any question?",
-        "content": "<p>Our customer support team is available 7 days a week. Average response time: 24 hours.</p>",
-        "text_position": "center",
-        "contact_form_size": "large",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "contact_background": "#f3e8dc",
-        "contact_text_color": "",
-        "button_background": "",
-        "button_text_color": ""
-      }
     }
   },
   "order": [
@@ -659,7 +659,7 @@
     "featured_product_AWrxYa",
     "tabs_GdnMbM",
     "faq_nTcrqG",
-    "1767125039fc7fb841",
-    "contact_AVdaDC"
+    "contact_AVdaDC",
+    "1767125039fc7fb841"
   ]
 }
