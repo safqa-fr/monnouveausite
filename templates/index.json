@@ -38,6 +38,7 @@
       "block_order": [
         "image_KDEtdg"
       ],
+      "disabled": true,
       "name": "Slideshow",
       "settings": {
         "full_width": true,
@@ -85,7 +86,6 @@
         "richtext_XY6iPf",
         "button_apBxmz"
       ],
-      "disabled": true,
       "name": "Image with text overlay",
       "settings": {
         "full_width": true,
