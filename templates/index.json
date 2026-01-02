@@ -9,6 +9,49 @@
  */
 {
   "sections": {
+    "slideshow_j97CkR": {
+      "type": "slideshow",
+      "blocks": {
+        "image_KDEtdg": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/d53696e1-cfc6-4955-af3e-3c11d2df3946.png",
+            "mobile_image": "shopify://shop_images/Soin_du_visage_avec_gua_sha.png",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "",
+            "title": "Feel Lighter Starting Today",
+            "heading_tag": "h0",
+            "button_text": "Start My Ritual",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#6e4a2f",
+            "button_text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 10,
+            "background": "",
+            "background_gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_KDEtdg"
+      ],
+      "name": "Slideshow",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": true,
+        "show_initial_transition": false,
+        "image_size": "auto",
+        "controls_type": "dots",
+        "transition_type": "fade_with_text",
+        "autoplay": false,
+        "cycle_speed": 6,
+        "background": "#F2F2F2",
+        "background_gradient": ""
+      }
+    },
     "image_with_text_overlay_ctfJ7C": {
       "type": "image-with-text-overlay",
       "blocks": {
@@ -42,6 +85,7 @@
         "richtext_XY6iPf",
         "button_apBxmz"
       ],
+      "disabled": true,
       "name": "Image with text overlay",
       "settings": {
         "full_width": true,
@@ -650,6 +694,7 @@
     }
   },
   "order": [
+    "slideshow_j97CkR",
     "image_with_text_overlay_ctfJ7C",
     "logo_list_xPKiBq",
     "multi_column_WGxiRG",
