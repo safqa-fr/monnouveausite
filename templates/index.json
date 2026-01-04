@@ -181,23 +181,11 @@
             "button_url": "",
             "button_text": ""
           }
-        },
-        "item_XWcj9Y": {
-          "type": "item",
-          "settings": {
-            "image_rotation_degrees": 1.5,
-            "subheading": "",
-            "title": "",
-            "content": "<p>✓ <strong>NO PRODUCTS NEEDED</strong><br/>Use it dry, anytime, anywhere. No products, no mess, no extra steps.</p><p>✓ <strong>QUICK DAILY ROUTINE</strong><br/>Takes only a few minutes and fits easily into any routine, at home or on the go.</p><p>✓ <strong>REUSABLE TOOL</strong><br/>A long-lasting tool designed for everyday use, with no ongoing costs.</p>",
-            "button_url": "",
-            "button_text": ""
-          }
         }
       },
       "block_order": [
         "item_zfbhTd",
-        "item_HUeTBY",
-        "item_XWcj9Y"
+        "item_HUeTBY"
       ],
       "name": "Multiple images with text",
       "settings": {
