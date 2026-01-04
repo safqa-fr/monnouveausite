@@ -116,6 +116,46 @@
         "logo_item_border": "#ffffff"
       }
     },
+    "rich_text_bkreWC": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_PX74aV": {
+          "type": "subheading",
+          "settings": {
+            "text": ""
+          }
+        },
+        "heading_cNEetj": {
+          "type": "heading",
+          "settings": {
+            "text": "Why choose Skineo?",
+            "heading_tag": "h2",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_GXT6WQ": {
+          "type": "richtext",
+          "settings": {
+            "content": ""
+          }
+        }
+      },
+      "block_order": [
+        "subheading_PX74aV",
+        "heading_cNEetj",
+        "richtext_GXT6WQ"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "multiple_images_with_text_xw3UXX": {
       "type": "multiple-images-with-text",
       "blocks": {
@@ -660,6 +700,7 @@
   "order": [
     "image_with_text_overlay_ctfJ7C",
     "logo_list_xPKiBq",
+    "rich_text_bkreWC",
     "multiple_images_with_text_xw3UXX",
     "before_after_image_Uwc9Ta",
     "multi_column_bLbGFt",
