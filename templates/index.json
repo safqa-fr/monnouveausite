@@ -610,8 +610,8 @@
             "image": "shopify://shop_images/Outil_de_massage_et_eclat_naturel.png",
             "icon": "none",
             "icon_width": 48,
-            "title": "Heading",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "title": "DE-PUFFS IN MINUTES",
+            "content": "<p>Helps reduce facial puffiness for a fresher, more rested look.</p>"
           }
         },
         "item_QA6JFx": {
@@ -641,46 +641,13 @@
             "title": "Heading",
             "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
           }
-        },
-        "item_BznNLP": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/5_e9e9b296-b0c1-4664-9286-2b98f47bcddd.webp",
-            "icon": "none",
-            "icon_width": 48,
-            "title": "Heading",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
-          }
-        },
-        "item_HaqNWB": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/5_e9e9b296-b0c1-4664-9286-2b98f47bcddd.webp",
-            "icon": "none",
-            "icon_width": 48,
-            "title": "Heading 1",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
-          }
-        },
-        "item_EWFiif": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/5_e9e9b296-b0c1-4664-9286-2b98f47bcddd.webp",
-            "icon": "none",
-            "icon_width": 48,
-            "title": "Heading 2",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
-          }
         }
       },
       "block_order": [
         "item_C9KWNn",
         "item_QA6JFx",
         "item_ijPWW6",
-        "item_ndKPK6",
-        "item_BznNLP",
-        "item_HaqNWB",
-        "item_EWFiif"
+        "item_ndKPK6"
       ],
       "name": "Images and text scrolling",
       "settings": {
