@@ -171,7 +171,7 @@
         "full_width": true,
         "allow_transparent_header": false,
         "enable_parallax": false,
-        "image_size": "lg",
+        "image_size": "auto",
         "image": "shopify://shop_images/DE-PUFFS_IN_MINUTES_Helps_reduce_facial_puffiness_for_a_fresher_more_rested_look..png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
