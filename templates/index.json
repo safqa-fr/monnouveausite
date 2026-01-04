@@ -116,68 +116,6 @@
         "logo_item_border": "#ffffff"
       }
     },
-    "multi_column_WGxiRG": {
-      "type": "multi-column",
-      "blocks": {
-        "item_TnFiCP": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/5_e9e9b296-b0c1-4664-9286-2b98f47bcddd.webp",
-            "column_size": "2",
-            "title": "",
-            "heading_tag": "h1",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_c8tyiP": {
-          "type": "item",
-          "disabled": true,
-          "settings": {
-            "column_size": "2",
-            "title": "",
-            "heading_tag": "h3",
-            "content": "<h5><strong>✓ De-puffs in minutes</strong><br/>Helps reduce facial puffiness for a fresher, more rested look.</h5><h5><strong>✓ Smooths the look of skin</strong><br/>Skin appears more even and refined after just a few gentle strokes.</h5><h5><strong>✓ Ultra-soft on sensitive skin</strong><br/>Designed to glide comfortably without pulling, pain, or irritation.</h5><h5><strong>✓ No oils, no serums needed</strong><br/>Use it dry, anytime, anywhere. No products, no mess, no extra steps.</h5><h5><strong>✓ A quick daily ritual</strong><br/>Takes only a few minutes and fits easily into any routine, at home or on the go.</h5><h5><strong>✓ Reusable, no refills</strong><br/>A long-lasting tool designed for everyday use, with no ongoing costs.</h5>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_reAikT": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/DE-PUFFS_IN_MINUTES_Helps_reduce_facial_puffiness_for_a_fresher_more_rested_look._1.png",
-            "column_size": "2",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "item_TnFiCP",
-        "item_c8tyiP",
-        "item_reAikT"
-      ],
-      "name": "Multi-column",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": true,
-        "gap": "small",
-        "text_alignment": "center",
-        "subheading": "",
-        "title": "Why Choose Skineo ?",
-        "content": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "before_after_image_Uwc9Ta": {
       "type": "before-after-image",
       "name": "Before/after image",
@@ -662,12 +600,28 @@
         "button_background": "",
         "button_text_color": ""
       }
+    },
+    "image_with_text_overlay_m3n79G": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/DE-PUFFS_IN_MINUTES_Helps_reduce_facial_puffiness_for_a_fresher_more_rested_look._3.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
     }
   },
   "order": [
     "image_with_text_overlay_ctfJ7C",
     "logo_list_xPKiBq",
-    "multi_column_WGxiRG",
+    "image_with_text_overlay_m3n79G",
     "before_after_image_Uwc9Ta",
     "multi_column_bLbGFt",
     "multi_column_gfT6Db",
