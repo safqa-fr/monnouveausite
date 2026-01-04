@@ -204,8 +204,8 @@
           "settings": {
             "column_size": "4",
             "title": "89%",
-            "heading_tag": "h1",
-            "content": "<h5>Saw their bags and puffy areas decrease as soon as the first week.<br/></h5>",
+            "heading_tag": "h2",
+            "content": "<p>Saw their bags and puffy areas decrease as soon as the first week.<br/></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -216,8 +216,8 @@
           "settings": {
             "column_size": "4",
             "title": "94%",
-            "heading_tag": "h1",
-            "content": "<h5>Noticed a firmer jawline and visibly sculpted face.<br/></h5>",
+            "heading_tag": "h2",
+            "content": "<p>Noticed a firmer jawline and visibly sculpted face.<br/></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -228,8 +228,8 @@
           "settings": {
             "column_size": "4",
             "title": "91%",
-            "heading_tag": "h1",
-            "content": "<h5>Found their skin to be softer, healthier and more radiant.</h5>",
+            "heading_tag": "h2",
+            "content": "<p>Found their skin to be softer, healthier and more radiant.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -240,8 +240,8 @@
           "settings": {
             "column_size": "4",
             "title": "89%",
-            "heading_tag": "h1",
-            "content": "<h5>Reported looking fresher, more relaxed and less tired.</h5>",
+            "heading_tag": "h2",
+            "content": "<p>Reported looking fresher, more relaxed and less tired.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -262,7 +262,7 @@
         "text_alignment": "center",
         "subheading": "",
         "title": "Clinically Tested Results",
-        "content": "<h4>Based on an independent user study with 527 participants after 30 days.</h4>",
+        "content": "<p>Based on an independent user study with 527 participants after 30 days.</p>",
         "background": "",
         "background_gradient": "",
         "text_color": ""
@@ -338,7 +338,7 @@
         "text_alignment": "center",
         "subheading": "",
         "title": "They say it better than we do",
-        "content": "<h4>⭐ <strong>4.8/5</strong> – Loved by over 10,000 customers</h4>",
+        "content": "<p>⭐ <strong>4.8/5</strong> – Loved by over 10,000 customers</p>",
         "background": "",
         "background_gradient": "",
         "text_color": ""
