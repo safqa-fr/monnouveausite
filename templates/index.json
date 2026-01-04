@@ -116,79 +116,6 @@
         "logo_item_border": "#ffffff"
       }
     },
-    "images_with_text_scrolling_cyjJ76": {
-      "type": "images-with-text-scrolling",
-      "blocks": {
-        "item_C9KWNn": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Outil_de_massage_et_eclat_naturel.png",
-            "icon": "none",
-            "icon_width": 48,
-            "title": "",
-            "content": "<p><strong>DE-PUFFS IN MINUTES</strong><br/>Helps reduce facial puffiness for a fresher, more rested look.</p>"
-          }
-        },
-        "item_Yb98CB": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Portrait_apaisant_avec_brosse_en_bois.png",
-            "icon": "none",
-            "icon_width": 48,
-            "title": "Heading",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
-          }
-        },
-        "item_QA6JFx": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Soins_du_visage_avec_un_pinceau_en_bois.png",
-            "icon": "none",
-            "icon_width": 48,
-            "title": "Heading",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
-          }
-        },
-        "item_ijPWW6": {
-          "type": "item",
-          "settings": {
-            "icon": "none",
-            "icon_width": 48,
-            "title": "Heading",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
-          }
-        },
-        "item_ndKPK6": {
-          "type": "item",
-          "settings": {
-            "icon": "none",
-            "icon_width": 48,
-            "title": "Heading",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "item_C9KWNn",
-        "item_Yb98CB",
-        "item_QA6JFx",
-        "item_ijPWW6",
-        "item_ndKPK6"
-      ],
-      "name": "Images and text scrolling",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "show_counter": true,
-        "desktop_image_effect": "reveal",
-        "image_position": "start",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": ""
-      }
-    },
     "before_after_image_Uwc9Ta": {
       "type": "before-after-image",
       "name": "Before/after image",
@@ -196,7 +123,7 @@
         "full_width": true,
         "subheading": "",
         "title": "Before & After Results",
-        "content": "<p>Expert-Approved.<br/>We don’t make promises. We show real results.</p>",
+        "content": "<h4>Expert-Approved.<br/>We don’t make promises. We show real results.</h4>",
         "before_image": "shopify://shop_images/0a7934ad-56eb-4c85-bcaf-128b4bbfcbfe.webp",
         "after_image": "shopify://shop_images/4e95e876-e167-40c7-93f1-942ade29db1b.webp",
         "expand_image": false,
@@ -672,6 +599,79 @@
         "contact_text_color": "",
         "button_background": "",
         "button_text_color": ""
+      }
+    },
+    "images_with_text_scrolling_cyjJ76": {
+      "type": "images-with-text-scrolling",
+      "blocks": {
+        "item_C9KWNn": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Outil_de_massage_et_eclat_naturel.png",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "",
+            "content": "<p><strong>DE-PUFFS IN MINUTES</strong><br/>Helps reduce facial puffiness for a fresher, more rested look.</p>"
+          }
+        },
+        "item_Yb98CB": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Portrait_apaisant_avec_brosse_en_bois.png",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Heading",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        },
+        "item_QA6JFx": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Soins_du_visage_avec_un_pinceau_en_bois.png",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Heading",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        },
+        "item_ijPWW6": {
+          "type": "item",
+          "settings": {
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Heading",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        },
+        "item_ndKPK6": {
+          "type": "item",
+          "settings": {
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Heading",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_C9KWNn",
+        "item_Yb98CB",
+        "item_QA6JFx",
+        "item_ijPWW6",
+        "item_ndKPK6"
+      ],
+      "name": "Images and text scrolling",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "show_counter": true,
+        "desktop_image_effect": "reveal",
+        "image_position": "start",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
       }
     }
   },
