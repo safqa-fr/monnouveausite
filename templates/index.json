@@ -64,7 +64,7 @@
           "type": "logo",
           "settings": {
             "logo": "shopify://shop_images/vogue_0d2782bd-1d73-47bd-89bd-334df51924d2.svg",
-            "logo_width": 300,
+            "logo_width": 200,
             "link": ""
           }
         },
@@ -72,7 +72,7 @@
           "type": "logo",
           "settings": {
             "logo": "shopify://shop_images/Cosmopolitan-Logo.png",
-            "logo_width": 300,
+            "logo_width": 200,
             "link": ""
           }
         },
@@ -80,7 +80,7 @@
           "type": "logo",
           "settings": {
             "logo": "shopify://shop_images/Design_sans_titre_23.avif",
-            "logo_width": 300,
+            "logo_width": 200,
             "link": ""
           }
         },
@@ -88,7 +88,7 @@
           "type": "logo",
           "settings": {
             "logo": "shopify://shop_images/elle_8f537aab-c668-429a-bc19-e409721dc3a0.svg",
-            "logo_width": 130,
+            "logo_width": 90,
             "link": ""
           }
         }
