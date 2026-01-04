@@ -134,6 +134,7 @@
         },
         "item_c8tyiP": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "column_size": "2",
             "title": "",
@@ -143,13 +144,26 @@
             "link_text": "",
             "link_style": "link"
           }
+        },
+        "item_reAikT": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/DE-PUFFS_IN_MINUTES_Helps_reduce_facial_puffiness_for_a_fresher_more_rested_look._1.png",
+            "column_size": "2",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
         }
       },
       "block_order": [
         "item_TnFiCP",
-        "item_c8tyiP"
+        "item_c8tyiP",
+        "item_reAikT"
       ],
-      "disabled": true,
       "name": "Multi-column",
       "settings": {
         "full_width": true,
@@ -162,22 +176,6 @@
         "background": "",
         "background_gradient": "",
         "text_color": ""
-      }
-    },
-    "image_with_text_overlay_bj3yyc": {
-      "type": "image-with-text-overlay",
-      "name": "Image with text overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/DE-PUFFS_IN_MINUTES_Helps_reduce_facial_puffiness_for_a_fresher_more_rested_look..png",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
       }
     },
     "before_after_image_Uwc9Ta": {
@@ -670,7 +668,6 @@
     "image_with_text_overlay_ctfJ7C",
     "logo_list_xPKiBq",
     "multi_column_WGxiRG",
-    "image_with_text_overlay_bj3yyc",
     "before_after_image_Uwc9Ta",
     "multi_column_bLbGFt",
     "multi_column_gfT6Db",
