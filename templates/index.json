@@ -178,7 +178,7 @@
         "full_width": true,
         "subheading": "",
         "title": "Before & After Results",
-        "content": "<h4>Expert-Approved.<br/>We don’t make promises. We show real results.</h4>",
+        "content": "<p>Expert-Approved.<br/>We don’t make promises. We show real results.</p>",
         "before_image": "shopify://shop_images/0a7934ad-56eb-4c85-bcaf-128b4bbfcbfe.webp",
         "after_image": "shopify://shop_images/4e95e876-e167-40c7-93f1-942ade29db1b.webp",
         "expand_image": false,
