@@ -610,8 +610,17 @@
             "image": "shopify://shop_images/Outil_de_massage_et_eclat_naturel.png",
             "icon": "none",
             "icon_width": 48,
-            "title": "DE-PUFFS IN MINUTES",
-            "content": "<p>Helps reduce facial puffiness for a fresher, more rested look.</p>"
+            "title": "",
+            "content": "<h4><strong>DE-PUFFS IN MINUTES</strong><br/>Helps reduce facial puffiness for a fresher, more rested look.</h4>"
+          }
+        },
+        "item_Yb98CB": {
+          "type": "item",
+          "settings": {
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Heading",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
           }
         },
         "item_QA6JFx": {
@@ -645,6 +654,7 @@
       },
       "block_order": [
         "item_C9KWNn",
+        "item_Yb98CB",
         "item_QA6JFx",
         "item_ijPWW6",
         "item_ndKPK6"
@@ -655,7 +665,7 @@
         "stack_on_mobile": false,
         "show_counter": true,
         "desktop_image_effect": "reveal",
-        "image_position": "end",
+        "image_position": "start",
         "background": "",
         "background_gradient": "",
         "text_color": "",
