@@ -116,6 +116,61 @@
         "logo_item_border": "#ffffff"
       }
     },
+    "multiple_images_with_text_xw3UXX": {
+      "type": "multiple-images-with-text",
+      "blocks": {
+        "item_zfbhTd": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/5_e9e9b296-b0c1-4664-9286-2b98f47bcddd.webp",
+            "image_rotation_degrees": 0,
+            "subheading": "",
+            "title": "",
+            "content": "<p>✓ <strong>DE-PUFFS IN MINUTES</strong><br/>Helps reduce facial puffiness for a fresher, more rested look.</p><p>✓ <strong>SMOOTHER-LOOKING SKIN</strong><br/>Skin appears more even and refined after just a few gentle strokes.</p><p>✓ <strong>ULTRA-SOFT TOUCH</strong><br/>Designed to glide comfortably without pulling, pain, or irritation.</p>",
+            "button_url": "",
+            "button_text": ""
+          }
+        },
+        "item_HUeTBY": {
+          "type": "item",
+          "settings": {
+            "image_rotation_degrees": -2,
+            "subheading": "",
+            "title": "",
+            "content": "<p>✓ <strong>NO PRODUCTS NEEDED</strong><br/>Use it dry, anytime, anywhere. No products, no mess, no extra steps.</p><p>✓ <strong>QUICK DAILY ROUTINE</strong><br/>Takes only a few minutes and fits easily into any routine, at home or on the go.</p><p>✓ <strong>REUSABLE TOOL</strong><br/>A long-lasting tool designed for everyday use, with no ongoing costs.</p>",
+            "button_url": "",
+            "button_text": ""
+          }
+        },
+        "item_XWcj9Y": {
+          "type": "item",
+          "settings": {
+            "image_rotation_degrees": 1.5,
+            "subheading": "",
+            "title": "",
+            "content": "<p>✓ <strong>NO PRODUCTS NEEDED</strong><br/>Use it dry, anytime, anywhere. No products, no mess, no extra steps.</p><p>✓ <strong>QUICK DAILY ROUTINE</strong><br/>Takes only a few minutes and fits easily into any routine, at home or on the go.</p><p>✓ <strong>REUSABLE TOOL</strong><br/>A long-lasting tool designed for everyday use, with no ongoing costs.</p>",
+            "button_url": "",
+            "button_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "item_zfbhTd",
+        "item_HUeTBY",
+        "item_XWcj9Y"
+      ],
+      "name": "Multiple images with text",
+      "settings": {
+        "full_width": false,
+        "images_layout": "stacked",
+        "collage_images_alignment": "middle",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
     "before_after_image_Uwc9Ta": {
       "type": "before-after-image",
       "name": "Before/after image",
@@ -600,66 +655,12 @@
         "button_background": "",
         "button_text_color": ""
       }
-    },
-    "multiple_images_with_text_xw3UXX": {
-      "type": "multiple-images-with-text",
-      "blocks": {
-        "item_zfbhTd": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/5_e9e9b296-b0c1-4664-9286-2b98f47bcddd.webp",
-            "image_rotation_degrees": 0,
-            "subheading": "",
-            "title": "",
-            "content": "<p>✓ <strong>DE-PUFFS IN MINUTES</strong><br/>Helps reduce facial puffiness for a fresher, more rested look.</p><p>✓ <strong>SMOOTHER-LOOKING SKIN</strong><br/>Skin appears more even and refined after just a few gentle strokes.</p><p>✓ <strong>ULTRA-SOFT TOUCH</strong><br/>Designed to glide comfortably without pulling, pain, or irritation.</p>",
-            "button_url": "",
-            "button_text": ""
-          }
-        },
-        "item_HUeTBY": {
-          "type": "item",
-          "settings": {
-            "image_rotation_degrees": -2,
-            "subheading": "",
-            "title": "",
-            "content": "<p>✓ <strong>NO PRODUCTS NEEDED</strong><br/>Use it dry, anytime, anywhere. No products, no mess, no extra steps.</p><p>✓ <strong>QUICK DAILY ROUTINE</strong><br/>Takes only a few minutes and fits easily into any routine, at home or on the go.</p><p>✓ <strong>REUSABLE TOOL</strong><br/>A long-lasting tool designed for everyday use, with no ongoing costs.</p>",
-            "button_url": "",
-            "button_text": ""
-          }
-        },
-        "item_XWcj9Y": {
-          "type": "item",
-          "settings": {
-            "image_rotation_degrees": 1.5,
-            "subheading": "",
-            "title": "Why choose Skineo ?",
-            "content": "<p>✓ <strong>NO PRODUCTS NEEDED</strong><br/>Use it dry, anytime, anywhere. No products, no mess, no extra steps.</p><p>✓ <strong>QUICK DAILY ROUTINE</strong><br/>Takes only a few minutes and fits easily into any routine, at home or on the go.</p><p>✓ <strong>REUSABLE TOOL</strong><br/>A long-lasting tool designed for everyday use, with no ongoing costs.</p>",
-            "button_url": "",
-            "button_text": ""
-          }
-        }
-      },
-      "block_order": [
-        "item_zfbhTd",
-        "item_HUeTBY",
-        "item_XWcj9Y"
-      ],
-      "name": "Multiple images with text",
-      "settings": {
-        "full_width": false,
-        "images_layout": "stacked",
-        "collage_images_alignment": "middle",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "button_background": "",
-        "button_text_color": ""
-      }
     }
   },
   "order": [
     "image_with_text_overlay_ctfJ7C",
     "logo_list_xPKiBq",
+    "multiple_images_with_text_xw3UXX",
     "before_after_image_Uwc9Ta",
     "multi_column_bLbGFt",
     "multi_column_gfT6Db",
@@ -667,7 +668,6 @@
     "1767125039fc7fb841",
     "tabs_GdnMbM",
     "faq_nTcrqG",
-    "contact_AVdaDC",
-    "multiple_images_with_text_xw3UXX"
+    "contact_AVdaDC"
   ]
 }
