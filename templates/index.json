@@ -617,6 +617,7 @@
         "item_Yb98CB": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Portrait_apaisant_avec_brosse_en_bois.png",
             "icon": "none",
             "icon_width": 48,
             "title": "Heading",
@@ -662,7 +663,7 @@
       "name": "Images and text scrolling",
       "settings": {
         "full_width": true,
-        "stack_on_mobile": false,
+        "stack_on_mobile": true,
         "show_counter": true,
         "desktop_image_effect": "reveal",
         "image_position": "start",
